@@ -1,0 +1,7 @@
+name: StatusSigns
+version: 1.0
+main: com.snowbud56.ServerStatusSigns
+author: snowbud56
+commands:
+  statussigns:
+  signs:
